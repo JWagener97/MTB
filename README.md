@@ -2,8 +2,9 @@
 
 Program to run and log a power profile on the single phase MTB
 
+```
 .
-├── dash-app  
+├── dash-app
 │ └── assets # this folder contains style files
 │ │ ├── style.py
 │ │ └── typography.css
@@ -21,3 +22,4 @@ Program to run and log a power profile on the single phase MTB
 │ └── requirements.txt
 ├── Datasheets
 │ └── MTB # this folder contains the MTB Datasheet
+```
