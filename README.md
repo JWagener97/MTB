@@ -23,3 +23,7 @@ Program to run and log a power profile on the single phase MTB
 ├── Datasheets
 │ └── MTB # this folder contains the MTB Datasheet
 ```
+
+## Install the required packages
+
+$ pip install -r requirements.txt
